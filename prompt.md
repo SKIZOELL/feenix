@@ -1,6 +1,6 @@
 # 🎯 AI Builder Prompt: Feenix: Amkadamiyya School Fee Management System
 
-## 📖 The Problem: Why We Need This Software
+## 📖 The Problem Statement: Why We Need This Software
 
 **The Current Chaos at Amkadamiyya School**
 
