@@ -1,0 +1,1 @@
+https://id-preview--579b103b-b02d-4843-8d43-ebd3b196a3e1.lovable.app/
